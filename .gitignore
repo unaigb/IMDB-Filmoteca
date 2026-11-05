@@ -1,0 +1,11 @@
+# NetBeans / compilado
+build/
+dist/
+nbproject/private/
+
+# Ficheros que genera la aplicación
+binarios/*
+!binarios/.gitkeep
+IMDB21/
+peliculas.html
+directores.col
